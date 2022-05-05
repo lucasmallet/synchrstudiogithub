@@ -4,4 +4,6 @@ author: "Lucas MALLET"
 date: "05/05/2022"
 output: html_document
 ---
-code test
+code 
+
+ajout 1, delete "test"
